@@ -1,0 +1,13 @@
+img {
+    height: 650px;
+    width: 450px;
+    border-radius: 30% 30%;
+    border: solid 2mm; 
+    margin: 1em;  
+}
+
+.flexindex {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
